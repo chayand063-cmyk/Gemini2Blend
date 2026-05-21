@@ -10,7 +10,7 @@ bl_info = {
 
 #initializing model
 # Set up the model and API key
-genai.configure(api_key="YOUR_API_KEY_HERE")
+genai.configure(api_key="AIzaSyBYw2lNZ2RjEC9bedEfeoQjxHBwFV0pzbA")
 generation_config = {
     "temperature": 0.9,
     "top_p": 1,
